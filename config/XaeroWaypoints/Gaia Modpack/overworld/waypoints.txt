@@ -1,0 +1,4 @@
+waypoint:Abyssal Entrance:A:-191:64:-855:5:true:0:gui.xaero_default:false:0
+waypoint:Pueblo:P:-390:75:-328:0:true:0:gui.xaero_default:false:0
+waypoint:Vainilla y almendras:V:-39:88:-507:6:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint:D:-322:61:-183:0:false:1:gui.xaero_default:false:0

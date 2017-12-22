@@ -42,5 +42,40 @@
       "properties": {}
     },
     "temperature": 17.0
+  },
+  {
+    "state": {
+      "block": "minecraft:snow",
+      "properties": {}
+    },
+    "temperature": -7.0
+  },
+  {
+    "state": {
+      "block": "minecraft:snow_layer",
+      "properties": {}
+    },
+    "temperature": -5.0
+  },
+  {
+    "state": {
+      "block": "minecraft:ice",
+      "properties": {}
+    },
+    "temperature": -7.0
+  },
+  {
+    "state": {
+      "block": "minecraft:packed_ice",
+      "properties": {}
+    },
+    "temperature": -7.0
+  },
+  {
+    "state": {
+      "block": "minecraft:frosted_ice",
+      "properties": {}
+    },
+    "temperature": -7.0
   }
 ]

@@ -15,7 +15,7 @@
     "checkLight": true,
     "checkRedstone": false,
     "spawnAmount": 1,
-    "cooldown": 60
+    "cooldown": 20
   },
   "2": {
     "minKills": 128,
@@ -24,7 +24,7 @@
     "checkLight": true,
     "checkRedstone": false,
     "spawnAmount": 1,
-    "cooldown": 30
+    "cooldown": 10
   },
   "3": {
     "minKills": 256,
@@ -32,8 +32,8 @@
     "checkPlayer": false,
     "checkLight": true,
     "checkRedstone": false,
-    "spawnAmount": 2,
-    "cooldown": 15
+    "spawnAmount": 1,
+    "cooldown": 5
   },
   "4": {
     "minKills": 512,
@@ -42,7 +42,7 @@
     "checkLight": true,
     "checkRedstone": false,
     "spawnAmount": 2,
-    "cooldown": 10
+    "cooldown": 5
   },
   "5": {
     "minKills": 1024,
@@ -50,7 +50,7 @@
     "checkPlayer": false,
     "checkLight": false,
     "checkRedstone": true,
-    "spawnAmount": 3,
-    "cooldown": 5
+    "spawnAmount": 2,
+    "cooldown": 2
   }
 }
